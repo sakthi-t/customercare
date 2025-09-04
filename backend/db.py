@@ -3,7 +3,7 @@ import duckdb
 from dotenv import load_dotenv
 import pandas as pd
 
-load_dotenv()
+# load_dotenv()
 
 def get_connection():
     # Your token is stored under ORDERS (per your earlier setup)
