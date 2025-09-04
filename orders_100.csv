@@ -1,0 +1,101 @@
+order_id,order_date,customer_id,customer_name,customer_email,ordered_products,order_quantity,quantity,price,status
+1000,2025-02-23,1,John,john@example.com,Laptop,1,2,1602.9,Cancelled
+1001,2025-05-31,3,Bob,bob@example.com,Smartwatch,1,4,7081.96,Refunded
+1002,2025-03-24,5,Maxwell,maxwell@example.com,Smartwatch,1,1,199.38,Refunded
+1003,2025-07-22,1,John,john@example.com,Monitor,1,5,5395.8,Refunded
+1004,2025-02-18,1,John,john@example.com,Smartphone,1,3,1694.55,Refunded
+1005,2025-04-20,2,Alice,alice@example.com,Camera,1,1,1222.92,Delivered
+1006,2025-04-15,2,Alice,alice@example.com,Smartphone,1,5,480.05,Returned
+1007,2025-08-01,2,Alice,alice@example.com,Camera,1,3,2670.42,Returned
+1008,2025-02-03,4,Mark,mark@example.com,Laptop,1,2,3870.52,Refunded
+1009,2025-05-13,2,Alice,alice@example.com,Headphones,1,1,1453.82,In Progress
+1010,2025-03-30,1,John,john@example.com,Camera,1,3,5186.7,Refunded
+1011,2025-06-08,5,Maxwell,maxwell@example.com,Camera,1,4,6093.8,Delivered
+1012,2025-08-10,1,John,john@example.com,Monitor,1,2,876.76,Cancelled
+1013,2025-03-06,4,Mark,mark@example.com,Smartphone,1,2,688.44,Refunded
+1014,2025-07-29,1,John,john@example.com,Smartwatch,1,2,3385.48,In Progress
+1015,2025-02-25,5,Maxwell,maxwell@example.com,Monitor,1,4,1570.76,Returned
+1016,2025-05-07,3,Bob,bob@example.com,Laptop,1,2,969.68,Cancelled
+1017,2025-01-11,5,Maxwell,maxwell@example.com,Smartphone,1,5,8082.25,Returned
+1018,2025-05-10,1,John,john@example.com,Smartphone,1,1,733.19,In Progress
+1019,2025-06-01,1,John,john@example.com,Camera,1,3,2784.78,Returned
+1020,2025-02-28,5,Maxwell,maxwell@example.com,Smartwatch,1,5,4454.65,Cancelled
+1021,2025-07-04,2,Alice,alice@example.com,Smartphone,1,4,5662.28,Refunded
+1022,2025-08-30,3,Bob,bob@example.com,Laptop,1,1,1922.76,Delivered
+1023,2025-05-09,5,Maxwell,maxwell@example.com,Tablet,1,2,3323.02,Cancelled
+1024,2025-05-03,3,Bob,bob@example.com,Headphones,1,2,178.94,Refunded
+1025,2025-02-03,1,John,john@example.com,Laptop,1,1,1633.69,Refunded
+1026,2025-04-01,4,Mark,mark@example.com,Smartwatch,1,3,2654.34,Cancelled
+1027,2025-06-13,5,Maxwell,maxwell@example.com,Smartphone,1,3,2142.09,Delivered
+1028,2025-06-23,5,Maxwell,maxwell@example.com,Camera,1,4,3112.88,Delivered
+1029,2025-03-16,2,Alice,alice@example.com,Smartphone,1,5,7411.7,Returned
+1030,2025-03-27,4,Mark,mark@example.com,Smartwatch,1,3,4234.56,Refunded
+1031,2025-04-06,4,Mark,mark@example.com,Smartphone,1,3,3715.86,Refunded
+1032,2025-07-01,5,Maxwell,maxwell@example.com,Laptop,1,5,7234.5,Returned
+1033,2025-03-11,4,Mark,mark@example.com,Smartwatch,1,2,986.52,Returned
+1034,2025-01-28,5,Maxwell,maxwell@example.com,Camera,1,2,2748.32,Delivered
+1035,2025-03-07,5,Maxwell,maxwell@example.com,Smartphone,1,5,1345.4,Returned
+1036,2025-01-28,1,John,john@example.com,Camera,1,1,442.08,Refunded
+1037,2025-08-20,5,Maxwell,maxwell@example.com,Tablet,1,2,2215.38,Refunded
+1038,2025-02-10,2,Alice,alice@example.com,Laptop,1,5,9275.65,Delivered
+1039,2025-02-17,4,Mark,mark@example.com,Tablet,1,2,3827.36,In Progress
+1040,2025-01-08,2,Alice,alice@example.com,Smartphone,1,5,4082.9,In Progress
+1041,2025-08-26,2,Alice,alice@example.com,Tablet,1,1,682.18,Refunded
+1042,2025-07-24,4,Mark,mark@example.com,Laptop,1,3,5917.59,Delivered
+1043,2025-07-04,1,John,john@example.com,Smartphone,1,4,5593.84,Cancelled
+1044,2025-05-29,3,Bob,bob@example.com,Headphones,1,2,137.84,Cancelled
+1045,2025-03-29,1,John,john@example.com,Tablet,1,2,2830.24,Refunded
+1046,2025-07-14,2,Alice,alice@example.com,Smartphone,1,4,1041.96,In Progress
+1047,2025-07-13,3,Bob,bob@example.com,Laptop,1,5,2300.55,In Progress
+1048,2025-07-15,5,Maxwell,maxwell@example.com,Tablet,1,1,180.45,Returned
+1049,2025-06-18,4,Mark,mark@example.com,Tablet,1,3,888.45,Returned
+1050,2025-01-09,1,John,john@example.com,Laptop,1,5,3192.9,In Progress
+1051,2025-06-09,4,Mark,mark@example.com,Monitor,1,5,2067.5,In Progress
+1052,2025-01-28,5,Maxwell,maxwell@example.com,Headphones,1,3,5563.71,Returned
+1053,2025-01-04,4,Mark,mark@example.com,Monitor,1,3,4390.68,In Progress
+1054,2025-08-24,4,Mark,mark@example.com,Laptop,1,5,3158.05,Returned
+1055,2025-03-31,3,Bob,bob@example.com,Camera,1,5,5022.4,Delivered
+1056,2025-03-23,3,Bob,bob@example.com,Smartphone,1,4,4070.24,Returned
+1057,2025-05-15,4,Mark,mark@example.com,Tablet,1,4,4310.44,Returned
+1058,2025-07-01,2,Alice,alice@example.com,Tablet,1,1,397.39,Returned
+1059,2025-04-25,2,Alice,alice@example.com,Tablet,1,5,1322.5,Refunded
+1060,2025-04-16,3,Bob,bob@example.com,Laptop,1,2,2767.04,Cancelled
+1061,2025-03-05,5,Maxwell,maxwell@example.com,Headphones,1,2,2407.34,Cancelled
+1062,2025-03-29,3,Bob,bob@example.com,Laptop,1,4,1074.28,Returned
+1063,2025-03-02,4,Mark,mark@example.com,Laptop,1,2,483.88,Cancelled
+1064,2025-07-24,3,Bob,bob@example.com,Smartphone,1,3,2336.25,Returned
+1065,2025-01-03,3,Bob,bob@example.com,Smartwatch,1,1,1781.28,Returned
+1066,2025-06-05,4,Mark,mark@example.com,Laptop,1,4,2228.72,Delivered
+1067,2025-02-20,2,Alice,alice@example.com,Headphones,1,4,7591.4,Returned
+1068,2025-02-13,5,Maxwell,maxwell@example.com,Headphones,1,4,3519.68,Delivered
+1069,2025-02-15,1,John,john@example.com,Headphones,1,2,3100.98,Refunded
+1070,2025-04-11,4,Mark,mark@example.com,Smartwatch,1,2,3204.84,Refunded
+1071,2025-04-28,1,John,john@example.com,Headphones,1,3,5967.69,Cancelled
+1072,2025-02-07,3,Bob,bob@example.com,Camera,1,1,1051.73,In Progress
+1073,2025-05-12,3,Bob,bob@example.com,Tablet,1,2,3673.68,Delivered
+1074,2025-08-15,2,Alice,alice@example.com,Monitor,1,4,7553.04,Cancelled
+1075,2025-08-21,5,Maxwell,maxwell@example.com,Headphones,1,2,944.1,Returned
+1076,2025-07-15,5,Maxwell,maxwell@example.com,Smartphone,1,4,6590.2,In Progress
+1077,2025-04-23,1,John,john@example.com,Tablet,1,3,4845.6,Returned
+1078,2025-06-19,4,Mark,mark@example.com,Laptop,1,4,7017.56,Refunded
+1079,2025-05-12,1,John,john@example.com,Camera,1,4,5305.44,Returned
+1080,2025-06-09,3,Bob,bob@example.com,Smartwatch,1,3,3252.63,Delivered
+1081,2025-06-09,4,Mark,mark@example.com,Headphones,1,5,4210.15,Refunded
+1082,2025-04-01,5,Maxwell,maxwell@example.com,Tablet,1,5,2090.1,Returned
+1083,2025-01-04,1,John,john@example.com,Smartphone,1,2,3341.54,Returned
+1084,2025-08-25,1,John,john@example.com,Laptop,1,1,1317.11,Cancelled
+1085,2025-07-05,4,Mark,mark@example.com,Camera,1,5,4211.9,Refunded
+1086,2025-04-16,1,John,john@example.com,Camera,1,2,3944.72,In Progress
+1087,2025-07-20,4,Mark,mark@example.com,Smartphone,1,3,3510.3,Delivered
+1088,2025-07-04,1,John,john@example.com,Tablet,1,3,1635.54,Refunded
+1089,2025-03-19,5,Maxwell,maxwell@example.com,Headphones,1,1,1959.58,In Progress
+1090,2025-02-04,3,Bob,bob@example.com,Laptop,1,1,79.44,Returned
+1091,2025-04-07,1,John,john@example.com,Smartwatch,1,2,3037.42,Cancelled
+1092,2025-01-15,4,Mark,mark@example.com,Monitor,1,1,320.22,Refunded
+1093,2025-08-26,5,Maxwell,maxwell@example.com,Smartphone,1,1,970.85,Cancelled
+1094,2025-01-29,1,John,john@example.com,Smartphone,1,4,718.48,Cancelled
+1095,2025-05-09,3,Bob,bob@example.com,Laptop,1,5,327.6,Returned
+1096,2025-08-22,4,Mark,mark@example.com,Smartphone,1,5,6582.95,Refunded
+1097,2025-02-25,3,Bob,bob@example.com,Monitor,1,2,3766.16,Cancelled
+1098,2025-02-22,1,John,john@example.com,Camera,1,3,4205.16,Delivered
+1099,2025-02-22,3,Bob,bob@example.com,Headphones,1,5,7350.7,Delivered
