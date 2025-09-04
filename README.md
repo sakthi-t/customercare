@@ -9,5 +9,3 @@ pinned: false
 license: mit
 short_description: Answers queries based on orders table
 
-# customercare
-A customer care AI agent that interacts with customers based on orders table.
